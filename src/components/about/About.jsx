@@ -3,7 +3,7 @@ import './about.css';
 import ME from '../../assets/about.jpg';
 import {FaAward} from 'react-icons/fa';
 import {FiUsers} from 'react-icons/fi';
-import {VsFolderLibrary} from 'react-icons/vsc';
+import {VscFolderLibrary} from 'react-icons/vsc';
 
 
 
@@ -36,7 +36,7 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <VsFolderLibrary className='about__icon' />
+              <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
               <small>50+ Completed</small>
             </article>
