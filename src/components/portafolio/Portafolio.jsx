@@ -4,7 +4,7 @@ import './portafolio.css';
 
 const Portafolio = () => {
   return (
-    <div>Portafolio</div>
+    <section id='portfolio' >Portafolio</section>
   )
 }
 
