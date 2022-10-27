@@ -15,8 +15,10 @@ const Portafolio = () => {
             <img src={port1} alt="" />
           </div>
           <h3>Title</h3>
-          <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
-          <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
+            <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -24,8 +26,10 @@ const Portafolio = () => {
             <img src={port1} alt="" />
           </div>
           <h3>Title</h3>
-          <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
-          <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
+            <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -33,8 +37,10 @@ const Portafolio = () => {
             <img src={port1} alt="" />
           </div>
           <h3>Title</h3>
-          <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
-          <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
+            <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -42,8 +48,10 @@ const Portafolio = () => {
             <img src={port1} alt="" />
           </div>
           <h3>Title</h3>
-          <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
-          <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
+            <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -51,8 +59,10 @@ const Portafolio = () => {
             <img src={port1} alt="" />
           </div>
           <h3>Title</h3>
-          <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
-          <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
+            <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -60,9 +70,13 @@ const Portafolio = () => {
             <img src={port1} alt="" />
           </div>
           <h3>Title</h3>
-          <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
-          <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          <div className='portfolio__item-cta'>
+            <a href='https://github.com/Erik161/ReactMusicAppLandingPage' className='btn' target='_blank'>Github</a>
+            <a href='https://erik161.github.io/ReactMusicAppLandingPage/' className='btn btn-primary' target='_blank'>Live Demo </a>
+          </div>
         </article>
+
+        
       </div>
     </section>
   )
