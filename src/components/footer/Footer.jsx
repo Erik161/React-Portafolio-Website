@@ -7,7 +7,7 @@ import {IoLogoTwitter} from 'react-icons/io';
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Erik Hernandez</a>
+      <a href="#" className='footer__logo'>Erik Hernández López</a>
 
       <u className='permalinks'>
         <li><a href='#' >Home</a></li>
@@ -26,7 +26,7 @@ const Footer = () => {
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy; Erik Hernández. All rights reserved</small>
+        <small>&copy; Erik Hernández López. All rights reserved</small>
       </div>
 
     </footer>
