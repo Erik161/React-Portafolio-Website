@@ -19,6 +19,8 @@ const Contact = () => {
       }, (error) => {
           console.log(error.text);
       });
+
+    e.target.reset()
   };
 
 
