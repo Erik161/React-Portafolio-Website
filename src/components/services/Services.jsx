@@ -16,32 +16,32 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>User Interface Design (UI Design) </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>interactive prototyping </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>User Testing </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>User experience analysis (UX Analysis) </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Usability Optimization</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Brand integration (Brand Integration)</p>
             </li>
           </ul>
         </article>
@@ -54,32 +54,32 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Maintenance and updating of front-end applications existing.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Integration of databases in applications </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Implementation of routes and routers in applications </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Component Implementation </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Integration of APIs and data in applications </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Implementation of responsive design </p>
             </li>
           </ul>
         </article>
@@ -93,32 +93,32 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Creation of images and graphics</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>video creation </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Creation of content for social networks </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Editing and review of existing content</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Content SEO Optimization </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <p>Development of content strategies</p>
             </li>
           </ul>
         </article>

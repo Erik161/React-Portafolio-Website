@@ -20,25 +20,25 @@ const data = [
   {
     avatar:avatar1,
     name:'Tina Snow',
-    review:'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi'
+    review:'I was impressed by the quality of design in the apps you featured in your portfolio. Great attention to detail is noticeable in the user experience.'
   },
 
   {
     avatar:avatar2,
     name:'Shatta Wale',
-    review:'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi'
+    review:'They have shown a great ability to create attractive and easy-to-use user interfaces, using the latest technologies and trends in web design. Highly recommended.'
   },
 
   {
     avatar:avatar3,
     name:'Kwame Despite',
-    review:'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi'
+    review:'The ability to work with different technologies and adapt to the specific requirements of the project is a valuable skill that is reflected in the portfolio.'
   },
 
   {
     avatar:avatar4,
     name:'Nana Ama McBrown',
-    review:'Modi alias animi dolorem aliquam ea eum beatae maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi'
+    review:'His capacity for collaboration and teamwork is reflected in the variety of projects in his portfolio and how he has worked with different design and development teams.'
   },
 ]
 
