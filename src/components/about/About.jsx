@@ -43,7 +43,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          I am a front-end web developer with more than 3 years of experience in the industry. I am passionate about creating engaging and functional online experiences for users, using modern technologies and methodologies. I can write clean and efficient code and follow accessibility standards for an inclusive user experience. I am a good communicator and team worker, understanding the importance of working with other professionals to achieve successful solutions. I have worked on various projects including eCommerce platforms, project management apps, and corporate websites. I am excited to continue my career and face new challenges in web development.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let´s Talk</a>
